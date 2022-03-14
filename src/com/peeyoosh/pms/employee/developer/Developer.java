@@ -1,5 +1,7 @@
 package com.peeyoosh.pms.employee.developer;
 
-public class Developer {
+import com.peeyoosh.pms.employee.Employee;
+
+public class Developer implements Employee{
 
 }
